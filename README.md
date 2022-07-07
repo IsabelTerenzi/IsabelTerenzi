@@ -1,4 +1,6 @@
-<img src="./github-header-image.png" alt="Isabel Terenzi web developver" align="center">
+<div style="display: inline_block" align="center">
+<img align="center" src="./github-header-image.png" alt="Isabel Terenzi web developer">
+</div>
 
 ##
 
