@@ -1,4 +1,8 @@
-![Header align="center"](./github-header-image.png)
+<div align="center">
+![Header](./github-header-image.png)
+</div>
+
+##
 
 I'm a designer from Belo Horizonte, Minas Gerais. Since 2017, I'm responsible for the content creation of my personal page on Instagram, about literature and I'm studying to be a fullstack web developer.
 
