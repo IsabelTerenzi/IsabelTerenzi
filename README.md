@@ -2,7 +2,11 @@
 
 I'm a designer from Belo Horizonte, Minas Gerais. Since 2017, I'm responsible for the content creation of my personal page on Instagram, about literature and I'm studying to be a fullstack web developer.
 
+##
+
 <h3 align="center">I'm proud to say that I've already learned:</h3>
+
+##
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,13 +21,19 @@ I'm a designer from Belo Horizonte, Minas Gerais. Since 2017, I'm responsible fo
   <img align="center" alt="gitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 </div>
 
+##
+
 <div align="center">
 <a href="https://github.com/isabelterenzi">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelterenzi&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isabelterenzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+##
+
 <h3 align="center">You can find me at:</h3>
+
+##
 
 <div align="center">
   <a href="https://www.instagram.com/bel.books/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
