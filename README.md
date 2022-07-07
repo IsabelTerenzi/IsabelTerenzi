@@ -17,9 +17,9 @@ I'm a designer from Belo Horizonte, Minas Gerais. Since 2017, I'm responsible fo
   <img align="center" alt="gitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelterenzi&show_icons=true&theme=radical)
+<img align="center" alt="HTML" height="30" width="40"![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelterenzi&show_icons=true&theme=radical)>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelterenzi)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" alt="HTML" height="30" width="40"[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelterenzi)](https://github.com/anuraghazra/github-readme-stats)>
 
 <h3 align="center">You can find me at:</h3>
 
