@@ -4,7 +4,12 @@
 
 ##
 
-I'm a designer from Belo Horizonte, Minas Gerais. Since 2017, I'm responsible for the content creation of my personal page on Instagram, about literature and I'm studying to be a fullstack web developer.
+*   🌍  I'm based in Belo Horizonte, Brazil.
+*   🖥️  See my portfolio [here](http://https://isabelterenzi.github.io/)
+*   ✉️  You can contact me at [bel.terenzi@gmail.com](mailto:bel.terenzi@gmail.com)
+*   🚀  You can also reach me at [LinkedIn](https://www.linkedin.com/in/isabel-terenzi/)
+*   🤝  I'm open to collaborating on new projects!
+<br /><br />
 
 ##
 
@@ -23,6 +28,13 @@ I'm a designer from Belo Horizonte, Minas Gerais. Since 2017, I'm responsible fo
   <img align="center" alt="Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="gitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ <img align="center" alt="mysql" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+ <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img align="center" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+ <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+ <img align="center" alt="sequelize" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg" />
+             
 </div>
 
 ##
@@ -40,8 +52,8 @@ I'm a designer from Belo Horizonte, Minas Gerais. Since 2017, I'm responsible fo
 ##
 
 <div align="center">
+    <a href="https://www.linkedin.com/in/isabel-terenzi-1920b7138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/bel.books/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:bel.terenzi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isabel-terenzi-1920b7138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
