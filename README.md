@@ -9,7 +9,6 @@
 *   ✉️  You can contact me at [bel.terenzi@gmail.com](mailto:bel.terenzi@gmail.com)
 *   🚀  You can also reach me at [LinkedIn](https://www.linkedin.com/in/isabel-terenzi/)
 *   🤝  I'm open to collaborating on new projects!
-<br /><br />
 
 ##
 
